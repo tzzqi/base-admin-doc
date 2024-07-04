@@ -55,6 +55,7 @@ function getSortList(array1, array2 ){
 export default defineConfig({
   title: "Base Admin",
   description: "基于 Vue3.2、TypeScript、Vite4、Pinia、Element-Plus",
+  base: '/base-admin-doc/',
   vite: {
     plugins: [
       AutoSidebar({
