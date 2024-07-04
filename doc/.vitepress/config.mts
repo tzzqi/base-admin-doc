@@ -81,7 +81,7 @@ export default defineConfig({
   },
   themeConfig: {
     nav: [
-      { text: '指南', link: '/guild' },
+      { text: '指南', link: '/guide' },
       { text: '构建', link: '/structure' }
     ],
     editLink: {
