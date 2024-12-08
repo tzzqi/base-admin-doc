@@ -16,6 +16,6 @@
     "vitepress": "^1.2.3"
   },
   "dependencies": {
-    "vite-plugin-vitepress-auto-sidebar": "^1.6.5"
+    "vite-plugin-vitepress-auto-sidebar": "^1.7.0"
   }
 }
